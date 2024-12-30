@@ -1,0 +1,171 @@
+body{
+    font-family:Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#fdfdfc;
+}
+.image1{
+    width: 500px;
+    height: 700px;
+}
+.portfolio2{
+display:flex;
+flex-direction: column;
+gap: 10px;
+padding: 10px;
+width: 700px;
+height: 600px;
+}
+.portfolio4{
+display: flex;
+flex-direction: column;
+gap: 10px;
+padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio6{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio7{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio9{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio10{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio11{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding:10px;
+    width: 700px;
+    height: 600px;
+}
+.image12{
+    width: 200px;
+    height: 300px;
+}
+.image13{
+    width: 200px;
+    height: 300px;
+}
+.image14{
+    width: 200px;
+    height: 300px;
+}
+.image15{
+    width: 200px;
+    height: 300px;
+}
+.image16{
+    width: 200px;
+    height: 300px;
+}
+.image17{
+    width: 200px;
+    height: 300px;
+}
+.image18{
+    width: 200px;
+    height: 300px;
+}
+.image19{
+    width: 200px;
+    height: 300px;
+}
+.image20{
+    width: 200px;
+    height: 300px;
+}
+.image21{
+    width: 200px;
+    height: 300px;
+}
+.image22{
+    width: 200;
+    height: 300px;
+}
+.image23{
+    width: 200px;
+    height: 300px;
+}
+.portfolio24{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio26{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio27{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio28{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio29{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio30{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+.portfolio32{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+}
+

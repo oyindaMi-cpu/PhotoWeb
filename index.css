@@ -1,0 +1,160 @@
+body {
+    background-color: #bf9389;
+    color: #22223b;
+    margin: 10px;
+    box-sizing: border-box;
+}
+*{
+    box-sizing: border-box;
+}
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 10px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+img{
+    width: 200px;
+}
+
+.header {
+    padding: 0 10px;
+    display: flex;
+    background-color: #9fa2b6;
+    justify-content: space-between;
+    align-items: center;
+}
+.portfolio2{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 600px;
+    }
+    .portfolio4{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio6{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio7{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio9{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio10{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio11{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding:10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio24{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio26{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio27{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio28{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio29{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio30{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    .portfolio32{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        width: 700px;
+        height: 600px;
+    }
+    
+    
